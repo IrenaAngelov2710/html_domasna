@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Header</title>
+<meta charset="8"/>
+</head>
+
+<body>
+<!--Navigacisko meni-->
+<header>
+<nav>
+<ul>
+<li>
+    <a href="table.html">Table</a>
+</li>
+<li>
+    <a href="image.html">Image</a>
+</li>
+<li>
+    <a href="list.html">List</a>
+</li>
+</ul>
+</nav>
+</header>
+</body>
+</html>

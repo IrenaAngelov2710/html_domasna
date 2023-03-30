@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Image</title>
+        <meta charset="8"/>
+     </head>
+
+<body>
+<img 
+src="pictures/sweet.jpg" alt="sweet" width="150" height="200"
+/>
+<br>
+<img
+src="pictures/cat.jpg" alt="cat" width="320" height="220"
+/>
+<br>
+<img
+src="pictures/beach.jpg" alt="sweet" width="450"
+/>
+</body>
+</html>
+

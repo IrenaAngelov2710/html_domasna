@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Knigi</title>
+<meta charset="8"/>
+</head>
+
+<body>
+<!--Tabela-->
+<table border="1" cellpadding="5" cellspacing="5">
+<caption>
+    Knigi, avtori i godina na izdavanje
+</caption>
+<br>
+
+<thead>
+<tr>
+<th>Naslov na kniga</th>
+<th>Avtor</th>
+<th>Godina na izdavanje</th>
+</tr>
+
+<tbody>
+<tr>
+<td><b>Ejmi ja nema</b></td>
+<td>Djilijan Flin</td>
+<td>2013</td>
+</tr>
+
+<tr>
+<td><b>Nikade bez kerka mi</b></td>
+<td>Beti Mahmudi</td>
+<td>2020</td>
+</tr>
+
+<tr>
+<td><b>Pacientot</b></td>
+<td>Sebastijan Ficek</td>
+<td>2020</td>
+</tr>
+
+<tr>
+<td><b>Gospodin Voobrazen</b></td>
+<td>Vaj Kilend</td>
+<td>2019</td>
+</tr>
+
+<tr>
+<td><b>Patnik</b></td>
+<td>Sebastijan Ficek</td>
+<td>2020</td>
+</tr>
+</tbody>
+</thead>
+</table>
+</body>
+</html>

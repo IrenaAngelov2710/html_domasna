@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Lista na iminja</title>
+<meta charset="8"/>
+</head>
+
+<body>
+<!--Podredena lista na maski i zenski iminja koi pocnuvaat na bukvite "A" i "G"-->
+<h3>Podredena lista na maski i zenski iminja koi pocnuvaat na bukvite "A" i "G"</h3>
+<br>
+<ol type="I">
+<li>Angela</li>
+<li>Gorjan</li>
+<li>Anastasija</li>
+<li>Gabrijela</li>
+<li>Aleksandra</li>
+</ol>
+
+<!--Nepodredena lista na omileni web strani-->
+<h3>Nepodredena lista na omileni web strani</h3>
+<br>
+<ul>
+<li><a href="https://www.netflix.com/de/" target="_blank">Netflix</a></li>
+<li><a href="http://www.femina.mk/" target="_blank">Femina</a></li>
+<li><a href="https://www.vesti.mk/" target="_blank">Vesti</a></li>
+</ul>
+</body>
+</html>
